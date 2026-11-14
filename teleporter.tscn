@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://b82fmjxxmnq0w"]
+
+[node name="Teleporter" type="CollisionShape2D" unique_id=2126375742]
