@@ -17,3 +17,4 @@ position = Vector2(0, 1)
 shape = SubResource("RectangleShape2D_mb2ds")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1866804721]
+zoom = Vector2(3, 3)
